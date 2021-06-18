@@ -12,6 +12,3 @@ sentance = ' '.join(first_list)
 
 print(first_list)
 print(sentance)
-
-
-
